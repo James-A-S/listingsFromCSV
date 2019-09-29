@@ -1,1 +1,1 @@
-generates ebay listings in html from csv files
+Generates Ebay html listings from csv files.
